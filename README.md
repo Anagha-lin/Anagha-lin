@@ -1,3 +1,5 @@
+![Uploading passport.jpg…]()
+
 - 👋 Hi, I’m  Anagha-lin
 - 👀 I’m interested in writing educational programs for teens and kids
 - 🌱 I’m currently learning @ ALX

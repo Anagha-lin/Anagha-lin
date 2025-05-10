@@ -1,13 +1,22 @@
-![Uploading passport.jpg…]()
+# 👋 Hi, I’m Anagha-lin
 
-- 👋 Hi, I’m  Anagha-lin
-- 👀 I’m interested in writing educational programs for teens and kids
-- 🌱 I’m currently learning @ ALX
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me via email: Linusanagha37@gmail.com
+Welcome to my GitHub!
 
-<!---
-Anagha-lin/Anagha-lin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-my update 
+I'm passionate about using technology to make education more accessible and engaging—especially for teens and kids. With a solid background in software development and hands-on training from **ALX** and **Holberton School**, I focus on building educational tools, content, and programs that inspire the next generation of learners.
+
+## 👩🏽‍💻 About Me
+
+- 🎓 Graduate of ALX & Holberton School
+- 🎯 Focused on writing **educational programs** for **kids and teens**
+- 🤝 Open to collaboration on:
+  - EdTech projects
+  - Curriculum design for programming education
+  - Creative coding platforms for beginners
+- 💡 Always learning and exploring new ways to teach tech in fun, practical ways
+- 📫 Reach me at **Linusanagha37@gmail.com**
+
+---
+
+> “Code is the language of the future. I want young minds to speak it fluently.”
+
+Thanks for visiting!
